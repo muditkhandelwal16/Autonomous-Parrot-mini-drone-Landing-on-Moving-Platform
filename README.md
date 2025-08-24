@@ -37,7 +37,7 @@ images/ – Figures and plots for documentation
 
 ⚠️ Note: The work/ directory and large .mp4 files are excluded from this repo to keep it lightweight.
 You can access videos and large outputs here:
-👉 Google Drive – Project Data
+👉 [Google Drive – Project Data](https://drive.google.com/drive/folders/1oGSCVR9RqMnJyWpkW87YA1blDqMFqAFT?usp=sharing)
 
 📄 Report
 
